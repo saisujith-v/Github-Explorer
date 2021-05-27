@@ -3,3 +3,4 @@ Search for your favourite github profiles and you can get full stats for every p
 
 Made Using Reactjs
 
+Hosted on Netlify:- https://githuusers6566.netlify.app/
